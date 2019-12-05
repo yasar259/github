@@ -1,24 +1,16 @@
-Pkg install git
 
-Pkg install Nano  
+</html>
+<head>
 
-Pkg install  Python 
 
-Pip install  requests
 
-Pip  install bsa4
+<title>
+yaşarkaçmaz.com
+<title>
+</head>
+<body>
+resmi Yaşar kaçmaz web sitesine hoşgeldiniz
 
-Pip install colorama 
+</body>
 
-Git clone  https://github.com/Pure-L0G1C/Instagram
-
-Ls
-
-Cd  Instagram
-
-Chmod +x *
-
-Ls
-
-Nano  pass.txt
-
+<html>
